@@ -1,0 +1,2 @@
+Administrador de usuarios y contraseñas.
+Archivo listo para usar.

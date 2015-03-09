@@ -1,0 +1,4 @@
+Este contenido se escribe en el archivo..
+Trambien se agrega este contenido.
+Este contenido se sobre-escribe en el archivo..
+Tambien esto se sobre-escribe este contenido.

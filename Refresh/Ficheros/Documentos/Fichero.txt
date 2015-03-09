@@ -1,0 +1,2 @@
+Hola este es el contenido de un Fichero.
+La estension de este archivo es txt.
