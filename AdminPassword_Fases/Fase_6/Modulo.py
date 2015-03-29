@@ -32,7 +32,7 @@ class Administrar:
             Linea = Fichero.readline()
             LineaPartida = Linea.split(";") # Convierte un string en una lista
 
-            ## print(LineaPartida[0]) # Imprime los incices
+            ## print(LineaPartida[0]) # Imprime los indices
 
             if LineaPartida[0] != "": # Si el indice esta vacio
                 Memoria = LineaPartida[0]
